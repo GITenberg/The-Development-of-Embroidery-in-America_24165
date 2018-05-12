@@ -1,0 +1,33 @@
+_repo: The-Development-of-Embroidery-in-America_24165
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wheeler, Candace
+    alias: Wheeler, Candace Thurber
+    birthdate: 1827
+    deathdate: 1923
+    gutenberg_agent_id: '5460'
+    url: http://www.gutenberg.org/2009/agents/5460
+    wikipedia: http://en.wikipedia.org/wiki/Candace_Wheeler
+description: ''
+gutenberg_bookshelf:
+- Crafts
+- Technology
+gutenberg_issued: '2008-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24165'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bayeux tapestry'
+- !lcc 'NK'
+- !lcsh 'Embroidery -- United States'
+- !lcsh 'Tapestry -- United States'
+title: The Development of Embroidery in America
+url: http://www.gutenberg.org/ebooks/24165
